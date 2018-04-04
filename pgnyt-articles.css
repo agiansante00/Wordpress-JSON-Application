@@ -1,0 +1,29 @@
+/*
+ *	Backend Styles
+ *
+*/
+
+.postbox .inside {
+	display: table
+}
+
+.postbox .pgnyt-articles > li {
+	float: left; 
+	margin: 5px; 
+	text-align: center; 
+	height: 290px; 
+	width: 120px;
+	overflow: hidden;
+}           
+
+.postbox .pgnyt-articles li li {
+	margin: 2px 0; 
+	padding: 0;
+}
+
+.postbox .pgnyt-articles img {
+	float: left;
+	width: 100%; 
+	margin-bottom: 5px;
+} 
+
